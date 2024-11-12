@@ -2,4 +2,5 @@
 
 # TODOs
 
-- TODO: create package.json file and setup webpack
+- TODO: setup ability to load images
+- TODO: setup dev server
