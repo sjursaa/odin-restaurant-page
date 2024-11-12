@@ -1,5 +1,13 @@
 # Restaurant page
 
+# Links
+
+[Assignment page](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
+[Webpack tutorial page](https://www.theodinproject.com/lessons/javascript-webpack)
+[Example of well executed page](https://web.archive.org/web/20221024060550/https://eckben.github.io/bearysBreakfastBar/)
+
+[Live website](https://sjursaa.github.io/odin-restaurant-page/)
+
 # TODOs
 
 - TODO: setup ability to load images (wait until necessary)
