@@ -11,11 +11,19 @@
 # TODOs
 
 - TODO: setup ability to load images (wait until necessary)
-- TODO: add a second js file
+- TODO: add content home page
+- TODO: add content menu page
+- TODO: add content about/contact page
+- TODO: look into renaming pageload.js
+
+# stuff to practice moving forward
+
+deployment process with webpack projects
+initial setup of webpack projects
 
 # Notes
 
-run with
+run project with
 
 ```bash
 npx webpack serve
